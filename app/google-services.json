@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "565864443478",
+    "project_id": "projectuas-umn",
+    "storage_bucket": "projectuas-umn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565864443478:android:57188b907fb37edacc55f7",
+        "android_client_info": {
+          "package_name": "umn.ac.audiomine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565864443478-23cvnvee4f8v9li25qkj2jntht4mhhq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3hp6B3YyYZcbY-QKl8Se_U5_i_0sXWuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565864443478-23cvnvee4f8v9li25qkj2jntht4mhhq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

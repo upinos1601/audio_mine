@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/BaktaW/AndroidStudioProjects/AudioMine/app/src/main/res/drawable/list_bg.xml" value="0.1953125" />
+        <entry key="..\:/Users/BaktaW/AndroidStudioProjects/AudioMine/app/src/main/res/layout/activity_main.xml" value="0.13043478260869565" />
+        <entry key="..\:/Users/BaktaW/AndroidStudioProjects/AudioMine/app/src/main/res/layout/activity_player.xml" value="0.1" />
+        <entry key="..\:/Users/BaktaW/AndroidStudioProjects/AudioMine/app/src/main/res/layout/list_item.xml" value="0.11277173913043478" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/drawable/ic_next.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/drawable/ic_play.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/drawable/ic_playbutton.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/drawable/ic_prev.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/drawable/list_bg.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.23293172690763053" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/layout-w936dp/activity_login.xml" value="0.271875" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/layout/activity_background.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/layout/activity_login_page.xml" value="0.1" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/layout/activity_main.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/layout/activity_player.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/layout/activity_register.xml" value="0.3625" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/layout/activity_register_user.xml" value="0.22" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/layout/content_register.xml" value="0.3625" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/layout/fragment_first.xml" value="0.3625" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/layout/fragment_second.xml" value="0.3625" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/layout/list_item.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12037037037037036" />
+        <entry key="..\:/Users/denma/Desktop/AudioMine/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.12037037037037036" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
